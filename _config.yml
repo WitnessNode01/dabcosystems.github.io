@@ -28,23 +28,15 @@ twitter_username: WitnessNode01
 github_username:  WitnessNode01
 
 # Build settings
-remote_theme: pages-themes/modernist@v0.2.0
+theme: minima
 plugins:
-- jekyll-remote-theme
-- Jekyll-feed
-
+  - jekyll-feed
 
 collections:
   lab:
     output: true
   build:
     output: true
-
-header_pages:
-  - index.md
-  - lab.md
-  - build.md
-
 
 # Exclude from processing.
 # The following items will not be processed, by default.

@@ -28,9 +28,15 @@ twitter_username: WitnessNode01
 github_username:  WitnessNode01
 
 # Build settings
-theme: minima
+theme: jekyll-theme-modernist
 plugins:
   - jekyll-feed
+
+collections:
+  lab:
+    output: true
+  build:
+    output: true
 
 # Exclude from processing.
 # The following items will not be processed, by default.

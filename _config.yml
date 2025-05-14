@@ -39,7 +39,7 @@ collections:
     output: true
 
 header_pages:
-  - index.md
+  - index.markdown
   - about.md
   - lab.md
   - build.md

@@ -28,9 +28,11 @@ twitter_username: WitnessNode01
 github_username:  WitnessNode01
 
 # Build settings
-theme: jekyll-theme-modernist
+remote_theme: pages-themes/modernist@v0.2.0
 plugins:
-  - jekyll-feed
+- jekyll-remote-theme
+- Jekyll-feed
+
 
 collections:
   lab:

@@ -40,6 +40,7 @@ collections:
 
 header_pages:
   - index.md
+  - about.md
   - lab.md
   - build.md
 
